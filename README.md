@@ -8,3 +8,12 @@ As of now, given code in python tries to find all the dependencies in the existi
 1. It parse code from Comments as well. Ideally comments should be not be parsed. 
 2. Not tested with custom namespaces.
 3. It is on premise execution. Need to make it in cloud, so that it should runtime fetches the org metadata and prepare a configuration JSON. which should fed to any visualization module. 
+
+
+_Sample output is given in final_json.json file._
+
+>>
+**Future plan:**
+1. Need to plug this json to some graphing libraries like - http://js.cytoscape.org/#demos  so that, it can be visualized properly; without much hurdles.
+2. Code should be more robust, to avoid dependencies.
+3. Host the app either on AWS/Heroku. Since both supports Python and other scripting languages. 
