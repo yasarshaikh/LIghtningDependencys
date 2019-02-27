@@ -14,6 +14,7 @@ _Sample output is given in final_json.json file._
 
 >>
 **Future plan:**
-1. Need to plug this json to some graphing libraries like - http://js.cytoscape.org/#demos  so that, it can be visualized properly; without much hurdles.
+1. Need to plug this json to some visualization libraries like - http://js.cytoscape.org/#demos or VIS js - http://visjs.org/examples/network/basicUsage.html
+so that, it can be more intuitive; without much hurdles.
 2. Code should be more robust, to avoid dependencies.
 3. Host the app either on AWS/Heroku. Since both supports Python and other scripting languages. 
