@@ -1,5 +1,7 @@
 # LIghtningDependencys
 
+[![Coverage Status](https://coveralls.io/repos/github/yasarshaikh/LIghtningDependencys/badge.svg?branch=master)](https://coveralls.io/github/yasarshaikh/LIghtningDependencys?branch=master)
+
 This is an effort to find dependencies between lightning components/apps/events so that it will easy to visualize and learn the existing code in any given salesforce org. 
 
 As of now, given code in python tries to find all the dependencies in the existing code. 
